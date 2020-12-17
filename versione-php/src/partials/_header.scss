@@ -1,0 +1,23 @@
+// header
+
+header {
+padding: 30px 0;
+
+  .container {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .box-logo {
+
+      img {
+        width: 200px;
+    border-radius: 8px;
+   -webkit-box-shadow: 1px 1px 15px -4px rgba(50,50,50,1);
+    -moz-box-shadow: 1px 1px 15px -4px rgba(50,50,50,1);
+    box-shadow: 1px 1px 15px -4px rgba(50,50,50,1);
+      }
+    }
+  }
+}
